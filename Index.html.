@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Curso de Marketing Digital - Ganhe Dinheiro Online</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f9f9f9;
+      color: #333;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      padding: 40px 20px;
+    }
+    .container {
+      background: white;
+      padding: 40px;
+      border-radius: 12px;
+      max-width: 800px;
+      width: 100%;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+      text-align: center;
+    }
+    h1 {
+      color: #2c3e50;
+      margin-bottom: 20px;
+    }
+    p {
+      font-size: 18px;
+      line-height: 1.6;
+      margin-bottom: 30px;
+    }
+    .btn-whatsapp {
+      background-color: #25D366;
+      color: white;
+      padding: 15px 30px;
+      text-decoration: none;
+      font-size: 18px;
+      border-radius: 8px;
+      transition: background-color 0.3s;
+      display: inline-block;
+    }
+    .btn-whatsapp:hover {
+      background-color: #1ebd58;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Curso Exclusivo: Ganhe Dinheiro com Marketing Digital</h1>
+    <p>Você está pronto para mudar de vida? Aprenda a ganhar dinheiro usando apenas o seu celular e uma conexão com a internet! Nosso curso de marketing digital foi criado especialmente para quem quer começar do zero e conquistar uma renda extra — ou até mesmo viver exclusivamente da internet.</p>
+
+    <p>Neste curso, você vai aprender:</p>
+    <ul style="text-align: left; margin-bottom: 30px; font-size: 17px;">
+      <li>Como funciona o marketing digital;</li>
+      <li>Como vender todos os dias usando o Instagram e WhatsApp;</li>
+      <li>Estratégias de vendas com tráfego orgânico e pago;</li>
+      <li>Criação de conteúdo que atrai e converte;</li>
+      <li>Automação de vendas para escalar seus ganhos;</li>
+      <li>E muito mais...</li>
+    </ul>
+
+    <p>Não perca essa oportunidade de mudar sua realidade financeira! Fale comigo agora mesmo e garanta sua vaga no curso.</p>
+
+    <a class="btn-whatsapp" href="https://wa.me/98985312215" target="_blank">Clique aqui para falar comigo no WhatsApp</a>
+  </div>
+</body>
+                                                                                                                                                                                                                                                                                                        </html>
+                                                                                                                                                                                                                                                                                                        
